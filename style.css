@@ -495,19 +495,12 @@ input, textarea {
 #submit {
   margin-top: 15px;
   padding: 10px 20px;
-  background-color: #e75480;
-  color: white;
   border: none;
   border-radius: 8px;
   font-size: 16px;
   cursor: pointer;
   transition: background 0.3s ease;
 }
-
-#submit:hover {
-  background-color: #d36b6b;
-}
-
 
 /* Footer */
 footer {
@@ -518,6 +511,7 @@ footer {
   color: #5a3e36;
   font-size: 4px;
 }
+
 
 
 /* ---------- Media Queries ---------- */
